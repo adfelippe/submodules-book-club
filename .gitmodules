@@ -1,3 +1,6 @@
 [submodule "ble"]
 	path = ble
 	url = https://github.com/adfelippe/tc35661-extended-api.git
+[submodule "lib/samd21-delay-us"]
+	path = lib/samd21-delay-us
+	url = https://github.com/adfelippe/samd21-microsecond-delay.git
