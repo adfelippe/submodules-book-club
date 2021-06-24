@@ -1,0 +1,3 @@
+[submodule "ble"]
+	path = ble
+	url = https://github.com/adfelippe/tc35661-extended-api.git
